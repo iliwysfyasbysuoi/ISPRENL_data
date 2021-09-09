@@ -7,7 +7,7 @@ contains data on employees' training rating.
   programID: 500
   rating: min: 0.0; max 5.0
   
-**Programs_Skill.csv **
+**Programs_Skill.csv**
 contains data on programs and it's target skills. The target skills is randomly generated with 0 and 1. 1 being a target and 0 being not a target.
   Rows = Program
   Columns = Skill
